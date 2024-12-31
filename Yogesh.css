@@ -1,0 +1,8 @@
+label[for="name"]{
+    color:rgb(87, 175, 226);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(240, 240, 240);
+    font-variant-emoji: initial;
+    place-self: center;
+    font-size: 100pt;
+  }
